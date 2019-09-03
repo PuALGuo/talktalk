@@ -1,0 +1,25 @@
+------------8.28的记录------------
+
+-Schedule
+-FSim
+--Fast Simulator
+-TSim
+--转成chisel => verilator
+--以后要改chisel //可能会比较慢
+
+rpc => simulator => hardware 
+
+Host => lib => Driver => Device
+
+未来工作
+-讲清楚VTA硬件流程，硬件设计
+-op设计原因 => 跟硬件匹配
+-后期再联合
+
+
+-op设计
+--可能有topi设计
+
+-论文
+--intro
+--dirty work
