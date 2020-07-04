@@ -1,0 +1,11 @@
+--蹭组会内容--
+
+ReRAM的结构设计
+
+线性插值--解决复杂激活函数//超越函数计算
+--多段折现拟合复杂函数
+--y=kx+b
+
+NeuroSim可以根据计算情况下的ReRAM报出数据：
+Area, Latency, Dynamic Energy, Leakage Power
+
